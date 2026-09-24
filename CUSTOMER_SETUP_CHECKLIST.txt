@@ -1,0 +1,18 @@
+POPPAD ORDER — NEW CUSTOMER SETUP CHECKLIST
+============================================
+[ ] Exact business name and logo
+[ ] Confirmed menu/products
+[ ] Confirmed prices
+[ ] Confirmed options/add-ons and prices
+[ ] Payment/collection wording
+[ ] Create separate Apps Script backend
+[ ] Add authoritative server-side catalogue and price validation
+[ ] Deploy backend and connect customer config
+[ ] Configure staff phone/tablet queue
+[ ] Test new orders appear automatically
+[ ] Test COMPLETE ORDER
+[ ] Test full customer journey on actual tablet
+[ ] Test 90-second inactivity reset
+[ ] Check no placeholders/other customer data remain
+[ ] Clear all test orders before launch
+[ ] Archive final customer ZIP
